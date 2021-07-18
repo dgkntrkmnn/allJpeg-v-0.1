@@ -1,0 +1,89 @@
+body, html
+{
+  width: 100%;
+}
+
+body
+{
+  margin:0;
+  padding:0;
+}
+
+.container1
+
+{
+  background: #FAF0E6
+}
+
+.ID
+{
+  font-family: "cursive", "Brush Script MT";
+  text-align: left;
+  color: red;
+  font-size: 20px;
+  padding-left: 5px;
+}
+
+
+.topnav
+{
+  background: black;
+  padding-bottom: 0.5%;
+  padding-top: 1%;
+
+
+
+}
+.navID
+{
+  font-family: "Goudy Bookletter 1911", sans-serif;
+    font-size: 13px;
+    color: CornflowerBlue;
+    padding-left: 0.4%;
+}
+
+.navContact
+{
+  color: CornflowerBlue;
+  padding-right: 0.5%;
+  text-align: right;
+
+}
+
+.About
+{
+ background-color:  rgb(45,45,45);
+ padding-top: 1px;
+ padding-bottom: 1px;
+}
+
+.About2
+{
+
+  padding-top: 1px;
+  padding-left: 15%;
+  color: white;
+  text-align: left;
+  padding-bottom: 1px;
+  margin-top: 1px;
+
+
+}
+
+.AboutP
+{
+  font-size: 14px;
+font-family: Times, "Times New Roman", Georgia, serif;
+
+}
+
+.AboutP2
+{
+  font-size: 22px;
+}
+
+.img_Entry
+{
+  padding-top: 1px;
+  padding-bottom: 1px;
+}
